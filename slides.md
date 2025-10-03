@@ -117,3 +117,30 @@ class: text-center
 <div class="text-xl">
 Let's see the platform in action
 </div>
+
+---
+
+# Future Work
+
+<div class="pt-8" />
+
+- **Advanced AI Algorithms** - Improve grouping with machine learning based on historical success rates
+
+- **Integration with LMS** - Connect with Canvas, Moodle, Google Classroom for seamless workflow
+
+- **Analytics Dashboard** - Track group performance over time and provide insights
+
+- **Feedback Loop** - Collect feedback from both students and teachers post-project to continuously improve grouping algorithms and learn what works best
+
+---
+layout: center
+class: text-center
+---
+
+# Thank you
+
+<div class="pt-8" />
+
+<div class="text-2xl">
+That's all dragons
+</div>
