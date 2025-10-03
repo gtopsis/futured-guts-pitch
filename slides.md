@@ -32,6 +32,9 @@ Marcelo Mollaj | Giorgos Topsis
 </div>
 
 ---
+layout: two-cols
+layoutClass: gap-12
+---
 
 # The Problem
 
@@ -43,6 +46,16 @@ Teachers **manually** or **randomly** grouping students
 - Random or intuition-based grouping leads to imbalanced teams
 - Hard to track what works and replicate successful groupings
 - Results in poor team dynamics and frustrated students
+
+<div class="pt-8 text-sm opacity-75">
+Most existing solutions focus either on student educational performance or on comprehensive personality tests
+</div>
+
+::right::
+
+<div class="pt-8">
+<img src="https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=2070" class="rounded-lg shadow-lg" alt="Teacher teaching students in classroom" />
+</div>
 
 ---
 layout: two-cols
